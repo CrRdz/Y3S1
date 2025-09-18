@@ -1,0 +1,21 @@
+# 编译输出
+*.obj
+*.exe
+*.ilk
+*.pdb
+*.idb
+*.log
+*.tlog
+*.manifest
+*.recipe
+
+# VS 工程文件夹
+Debug/
+Release/
+x64/
+ipch/
+.vs/
+*.suo
+*.user
+*.VC.db
+*.VC.opendb

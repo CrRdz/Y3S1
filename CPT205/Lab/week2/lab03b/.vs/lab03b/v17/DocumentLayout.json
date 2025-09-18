@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\code\\vs_repos\\lab03b\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E0999F76-7305-499F-AB7F-C6CC4EF9B520}|lab03b\\lab03b.vcxproj|F:\\code\\vs_repos\\lab03b\\lab03b\\lab03b.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E0999F76-7305-499F-AB7F-C6CC4EF9B520}|lab03b\\lab03b.vcxproj|solutionrelative:lab03b\\lab03b.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "lab03b.cpp",
+              "DocumentMoniker": "F:\\code\\vs_repos\\lab03b\\lab03b\\lab03b.cpp",
+              "RelativeDocumentMoniker": "lab03b\\lab03b.cpp",
+              "ToolTip": "F:\\code\\vs_repos\\lab03b\\lab03b\\lab03b.cpp",
+              "RelativeToolTip": "lab03b\\lab03b.cpp",
+              "ViewState": "AgIAAFEAAAAAAAAAAAAAAKgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-09-18T09:16:51.161Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
